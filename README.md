@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Estudando alanise e desenvolvimento de sistema
+- 🌱 Estudando analise e desenvolvimento de sistema
 - 📫 How to reach me: edmar.contato149@gmail.com
 - 😄 Pronouns: ele/dele
 
