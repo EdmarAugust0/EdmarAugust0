@@ -1,11 +1,11 @@
 ###
 
-<h1 align="center">Hi 👋, I'm Edmar Augusto</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h1 align="center">Olá 👋, sou o Edmar Augusto</h1>
+<h3 align="center">Um apaixonado desenvolvedor do Brasil</h3>
 
-- 🌱 I’m currently learning **Analise e desenvolvimento de sistemas**
+- 🌱 Estudando: **Analise e desenvolvimento de sistemas**
 
-- 📫 How to reach me **edmar.contato149@gmail.com**
+- 📫 Como me encotrar **edmar.contato149@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
